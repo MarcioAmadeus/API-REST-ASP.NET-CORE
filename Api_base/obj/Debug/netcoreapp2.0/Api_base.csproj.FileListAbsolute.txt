@@ -1,0 +1,11 @@
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/bin/Debug/netcoreapp2.0/Api_base.deps.json
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/bin/Debug/netcoreapp2.0/Api_base.runtimeconfig.json
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/bin/Debug/netcoreapp2.0/Api_base.runtimeconfig.dev.json
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/bin/Debug/netcoreapp2.0/Api_base.dll
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/bin/Debug/netcoreapp2.0/Api_base.pdb
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/obj/Debug/netcoreapp2.0/Api_base.csprojResolveAssemblyReference.cache
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/obj/Debug/netcoreapp2.0/Api_base.csproj.CoreCompileInputs.cache
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/obj/Debug/netcoreapp2.0/Api_base.AssemblyInfoInputs.cache
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/obj/Debug/netcoreapp2.0/Api_base.AssemblyInfo.cs
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/obj/Debug/netcoreapp2.0/Api_base.dll
+/Users/amadeus/Documents/Study/DotNET Core/Api_base/Api_base/obj/Debug/netcoreapp2.0/Api_base.pdb

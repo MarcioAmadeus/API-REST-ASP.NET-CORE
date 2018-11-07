@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{29E13B40-C8D2-401D-9338-21F470073043}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Api_base/Properties/launchSettings.json">
+    <Files>
+      <File FileName="Api_base/Controllers/ValuesController.cs" Line="45" Column="2" />
+      <File FileName="Api_base/Properties/launchSettings.json" Line="18" Column="7" />
+      <File FileName="Api_base/Startup.cs" Line="1" Column="1" />
+      <File FileName="Api_base/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Api_base/appsettings.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Api__base PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
